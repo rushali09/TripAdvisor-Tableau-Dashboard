@@ -4,7 +4,7 @@
 
 This project presents an interactive Tableau dashboard built using TripAdvisor review data. The dashboard uncovers key insights about hotel performance across different cities, based on user ratings, review counts, and service quality.
 
-🔗 **[View Live Dashboard](https://public.tableau.com/app/profile/rushali.sreedhar/viz/TripAdvisorDashboard_17524612933610/TripAdvisor?publish=yes)**
+🔗 **[View Live Dashboard](https://public.tableau.com/app/profile/rushali.sreedhar/viz/TripAdvisorDashboard_17524613807880/TripAdvisor)**
 
 ## 📌 Objective
 
