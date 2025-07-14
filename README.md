@@ -33,7 +33,3 @@ The goal is to visualize and explore hotel review data from TripAdvisor to ident
 2. Open the `.twb` file using Tableau Desktop
 3. Ensure the CSV data source path is updated if needed
 4. Explore the visualizations or publish to Tableau Public
-
-## 📬 Contact
-
-For any feedback or collaboration inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rushalisreedhar/).
