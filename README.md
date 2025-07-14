@@ -1,6 +1,5 @@
 # TripAdvisor-Tableau-Dashboard
 
-# TripAdvisor Dashboard
 
 This project presents an interactive Tableau dashboard built using TripAdvisor review data. The dashboard uncovers key insights about hotel performance across different cities, based on user ratings, review counts, and service quality.
 
